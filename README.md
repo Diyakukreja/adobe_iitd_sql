@@ -1,5 +1,3 @@
-# adobe_iitd_sql
-
 # SQL Query Assistant
 
 A powerful Python utility for correcting and executing SQL queries using Groq's LLM API and PostgreSQL.
